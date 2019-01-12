@@ -1,1 +1,2 @@
-# JavaScript_level1
+Домашние задани на курсе GeekBrains!
+JavaScript. Уровень 1
